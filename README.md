@@ -1,30 +1,38 @@
-Campus Security Camera Risk Assessment Project.
+# Campus Security Risk Assessment & Surveillance System
 
 ## Overview
-The project aims at assessing the security camera systems in campuses and determining possible security threats, weaknesses and improvement areas. It was aimed at implementing the principles of cybersecurity and risk management in a real-life physical and digital security setting.
+This project presents a campus-wide security and surveillance assessment designed to identify risks, evaluate vulnerabilities, and improve overall security posture. It combines cybersecurity principles with physical security planning to address real-world threats in a campus environment.
 
-## Key Objectives
-- Study current campus surveillance systems.
-- Determine possible security weaknesses and holes.
-- Conduct a systematic risk analysis.
-- Suggest performance to improve security posture.
+## Objective
+To analyze potential security risks in surveillance systems and implement mitigation strategies that improve safety, protect sensitive data, and ensure system reliability.
 
-## Tools & Technologies
-- Microsoft Excel (Risk Assessment Matrix).
-- Cybersecurity Risk Analysis Best Practices.
-- Security assessment NIST-wise.
+## Technologies & Tools Used
+- Microsoft Excel (Risk Assessment Matrix)
+- Risk Analysis Methodologies
+- Access Control Concepts
+- Security Best Practices (NIST-aligned)
 
 ## Key Features
-- Scoring and prioritization of risk.
-- Detection of vulnerabilities of high risk.
-- Systematic reporting of security discoveries.
-- Suggestions of mitigation strategies.
+- Developed a structured risk matrix evaluating likelihood and impact of threats  
+- Identified vulnerabilities such as unauthorized access, system failures, and data exposure  
+- Designed mitigation strategies including encryption, access controls, and redundancy  
+- Provided recommendations to improve system security and operational resilience  
 
-## What I Learned
-- The assessment of security risks in the real-world environments.
-- Using systematic models to assess vulnerabilities.
-- Interpreting risks in security to action plans.
+## Security Considerations
+- Protection of surveillance data through encryption and secure storage  
+- Role-based access control to restrict unauthorized system access  
+- Monitoring and auditing practices for accountability  
+- Alignment with cybersecurity and privacy best practices  
 
-## File Included
-https://1drv.ms/x/c/df46f35ac302028d/IQAI62Bf6Ez2SbEuOSfhJdJCATrtFN-FBuMyf27418isCRE?e=SW2VOU
+## Project Files
+- Campus_Security_Risk_Assessment.xlsx
 
+## Outcome
+This project demonstrates the ability to perform risk assessments, identify vulnerabilities, and design security-focused solutions. It highlights skills in cybersecurity analysis, IT governance, and infrastructure planning.
+
+## Relevance
+This project is relevant to roles in:
+- IT Support
+- Cybersecurity
+- Systems Administration
+- Risk & Compliance
