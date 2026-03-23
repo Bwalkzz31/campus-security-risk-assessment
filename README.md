@@ -26,19 +26,19 @@ To analyze potential security risks in surveillance systems and implement mitiga
 
 ### Risk Matrix Overview
 
-![Risk Matrix](images/risk-matrix-overview.png)
+![Risk Matrix](risk-matrix-overview.png)
 
 ### Risk Analysis & Mitigation Details
 
-![Risk Analysis](images/risk-analysis-details.png)
+![Risk Analysis](risk-analysis-details.png)
 
 ### Project Implementation Timeline
 
-![Project Plan](images/project-plan-timeline.png)
+![Project Plan](project-plan-timeline.png)
 
 ### Funding Strategy Overview
 
-![Funding Sources](images/funding-sources-overview.png)
+![Funding Sources](funding-sources-overview.png)
 
 This project includes a structured risk matrix, mitigation planning, implementation timeline, and funding strategy to support a real-world campus security system.
 
